@@ -42,7 +42,22 @@ print(result)
   "Where": "全球",
   "Why": "引起 AI 研究者关注"
 }
-##📸 示例展示图
-![image](https://github.com/user-attachments/assets/163b5a34-8b1c-4488-be83-edc139230ea2)
-![image](https://github.com/user-attachments/assets/0a1cbf30-f39f-41ce-a8cb-91cd3b46d168)
 
+
+
+## 📂 项目结构
+📦 langchain-news-extractor
+ ┣ 📜 news_extractor.py         # 主功能模块
+ ┣ 📜 prompts.py                # 自定义提示词模板
+ ┣ 📜 utils.py                  # 工具函数模块
+ ┣ 📄 requirements.txt          # 项目依赖
+ ┣ 📄 LICENSE
+ ┗ 📄 README.md
+
+
+## 📄 License
+本项目采用 MIT License 开源，欢迎自由使用、修改、再发布。
+
+## 👩‍💻 作者
+由 @woshixiyangyang开发与维护。
+欢迎提交 Issue 或 PR 改进项目 😊
